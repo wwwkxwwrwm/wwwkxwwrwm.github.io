@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-24T08:03:14.748Z</updated>
+  <updated>2020-01-26T06:26:13.736Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于剪辑视频的一些想法</title>
+    <link href="http://yoursite.com/2020/01/26/%E5%92%8C/"/>
+    <id>http://yoursite.com/2020/01/26/%E5%92%8C/</id>
+    <published>2020-01-26T05:46:43.000Z</published>
+    <updated>2020-01-26T06:26:13.736Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;关于创作内容&quot;&gt;&lt;a href=&quot;#关于创作内容&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>开篇</title>
